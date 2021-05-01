@@ -1,35 +1,65 @@
-﻿Ambrus, G. G., Kaiser, D., Cichy, R. M., & Kovács, G. (2019). The Neural Dynamics of Familiar Face Recognition. Cerebral Cortex, 29(11), 4775-4784. doi:10.1093/cercor/bhz010
-Andersen, C. A., Alfine, L., Ohla, K., & Höchenberger, R. (2019). A new gustometer: Template for the construction of a portable and modular stimulator for taste and lingual touch. Behavior Research Methods, 51(6), 2733-2747. doi:10.3758/s13428-018-1145-1
-Barthélemy, Q., Mayaud, L., Renard, Y., Kim, D., Kang, S. W., Gunkelman, J., & Congedo, M. (2017). Online denoising of eye-blinks in electroencephalography. Neurophysiologie Clinique, 47(5-6), 371-391. doi:10.1016/j.neucli.2017.10.059
-Bigdely-Shamlo, N., Touryan, J., Ojeda, A., Kothe, C., Mullen, T., & Robbins, K. (2020). Automated EEG mega-analysis I: Spectral and amplitude characteristics across studies. Neuroimage, 207. doi:10.1016/j.neuroimage.2019.116361
-Blum, S., Jacobsen, N. S. J., Bleichner, M. G., & Debener, S. (2019). A riemannian modification of artifact subspace reconstruction for EEG artifact handling. Frontiers in Human Neuroscience, 13. doi:10.3389/fnhum.2019.00141
-Cartailler, J., Parutto, P., Touchard, C., Vallée, F., & Holcman, D. (2019). Alpha rhythm collapse predicts iso-electric suppressions during anesthesia. Communications Biology, 2(1). doi:10.1038/s42003-019-0575-3
-Chang, C. Y., Hsu, S. H., Pion-Tonachini, L., & Jung, T. P. (2020). Evaluation of Artifact Subspace Reconstruction for Automatic Artifact Components Removal in Multi-Channel EEG Recordings. IEEE Transactions on Biomedical Engineering, 67(4), 1114-1121. doi:10.1109/TBME.2019.2930186
-De Freitas, A. M., Sanchez, G., Lecaignard, F., Maby, E., Soares, A. B., & Mattout, J. (2020). EEG artifact correction strategies for online trial-by-trial analysis. Journal of Neural Engineering, 17(1). doi:10.1088/1741-2552/ab581d
-Dhindsa, K., Acai, A., Wagner, N., Bosynak, D., Kelly, S., Bhandari, M., . . . Sonnadara, R. R. (2019). Individualized pattern recognition for detecting mind wandering from EEG during live lectures. PLoS One, 14(9). doi:10.1371/journal.pone.0222276
-Dima, D. C., Perry, G., & Singh, K. D. (2018). Spatial frequency supports the emergence of categorical representations in visual cortex during natural scene perception. Neuroimage, 179, 102-116. doi:10.1016/j.neuroimage.2018.06.033
-Doradzińska, Wójcik, M. J., Paź, M., Nowicka, M. M., Nowicka, A., & Bola, M. (2020). Unconscious perception of one's own name modulates amplitude of the P3B ERP component. Neuropsychologia, 147. doi:10.1016/j.neuropsychologia.2020.107564
-Draschkow, D., Heikel, E., Võ, M. L. H., Fiebach, C. J., & Sassenhagen, J. (2018). No evidence from MVPA for different processes underlying the N300 and N400 incongruity effects in object-scene processing. Neuropsychologia, 120, 9-17. doi:10.1016/j.neuropsychologia.2018.09.016
-Engemann, D. A., Kozynets, O., Sabbagh, D., Lemaitre, G., Varoquaux, G., Liem, F., & Gramfort, A. (2020). Combining magnetoencephalography with magnetic resonance imaging enhances learning of surrogate-biomarkers. eLife, 9, 1-33. doi:10.7554/eLife.54055
-Engemann, D. A., Raimondo, F., King, J. R., Rohaut, B., Louppe, G., Faugeras, F., . . . Sitt, J. D. (2018). Robust EEG-based cross-site and cross-protocol classification of states of consciousness. Brain, 141(11), 3179-3192. doi:10.1093/brain/awy251
-Fawaz, S., Sim, K. S., & Tan, S. C. (2020). Encoding Rich Frequencies for Classification of Stroke Patients EEG Signals. IEEE Access, 8, 135811-135820. doi:10.1109/ACCESS.2020.3011185
-Hartmann, T., & Weisz, N. (2019). Auditory cortical generators of the Frequency Following Response are modulated by intermodal attention. Neuroimage, 203. doi:10.1016/j.neuroimage.2019.116185
-Heikel, E., Sassenhagen, J., & Fiebach, C. J. (2018). Time-generalized multivariate analysis of EEG responses reveals a cascading architecture of semantic mismatch processing. Brain and Language, 184, 43-53. doi:10.1016/j.bandl.2018.06.007
-Jas, M., Larson, E., Engemann, D. A., Leppäkangas, J., Taulu, S., Hämäläinen, M., & Gramfort, A. (2018). A reproducible MEG/EEG group study with the MNE software: Recommendations, quality assessments, and good practices. Frontiers in Neuroscience, 12(AUG). doi:10.3389/fnins.2018.00530
-Jensen, M., Hyder, R., & Shtyrov, Y. (2019). MVPA analysis of intertrial phase coherence of neuromagnetic responses to words reliably classifies multiple levels of language processing in the brain. eNeuro, 6(4). doi:10.1523/ENEURO.0444-18.2019
-Kietzmann, T. C., Spoerer, C. J., Sörensen, L. K. A., Cichy, R. M., Hauk, O., & Kriegeskorte, N. (2019). Recurrence is required to capture the representational dynamics of the human visual system. Proceedings of the National Academy of Sciences of the United States of America, 116(43), 21854-21863. doi:10.1073/pnas.1905544116
-Korshakov, A. V. (2018). Brain-Computer Interface systems based on the near-infrared spectroscopy. Mathematical Biology and Bioinformatics, 13(1), 84-129. doi:10.17537/2018.13.84
-Kupers, E. R., Wang, H. X., Amano, K., Kay, K. N., Heeger, D. J., & Winawer, J. (2018). A non-invasive, quantitative study of broadband spectral responses in human visual cortex. PLoS One, 13(3). doi:10.1371/journal.pone.0193107
-Kustermann, T., Ata Nguepnjo Nguissi, N., Pfeiffer, C., Haenggi, M., Kurmann, R., Zubler, F., . . . De Lucia, M. (2020). Brain functional connectivity during the first day of coma reflects long-term outcome. NeuroImage: Clinical, 27. doi:10.1016/j.nicl.2020.102295
-Makowski, D., Sperduti, M., Pelletier, J., Blondé, P., La Corte, V., Arcangeli, M., . . . Piolino, P. (2019). Phenomenal, bodily and brain correlates of fictional reappraisal as an implicit emotion regulation strategy. Cognitive, Affective and Behavioral Neuroscience, 19(4), 877-897. doi:10.3758/s13415-018-00681-0
-Mutanen, T. P., Metsomaa, J., Liljander, S., & Ilmoniemi, R. J. (2018). Automatic and robust noise suppression in EEG and MEG: The SOUND algorithm. Neuroimage, 166, 135-151. doi:10.1016/j.neuroimage.2017.10.021
-Pedroni, A., Bahreini, A., & Langer, N. (2019). Automagic: Standardized preprocessing of big EEG data. Neuroimage, 200, 460-473. doi:10.1016/j.neuroimage.2019.06.046
-Pester, B., Lehmann, T., Leistritz, L., Witte, H., & Ligges, C. (2018). Influence of imputation strategies on the identification of brain functional connectivity networks. Journal of Neuroscience Methods, 309, 199-207. doi:10.1016/j.jneumeth.2018.09.021
-Roy, Y., Banville, H., Albuquerque, I., Gramfort, A., Falk, T. H., & Faubert, J. (2019). Deep learning-based electroencephalography analysis: A systematic review. Journal of Neural Engineering, 16(5). doi:10.1088/1741-2552/ab260c
-Sassenhagen, J., Blything, R., Lieven, E. V. M., & Ambridge, B. (2018). Frequency sensitivity of neural responses to English verb argument structure violations. Collabra: Psychology, 4(1). doi:10.1525/collabra.87
-Sorriso, A., Sorrentino, P., Rucco, R., Mandolesi, L., Ferraioli, G., Franceschini, S., . . . Baselice, F. (2019). An automated magnetoencephalographic data cleaning algorithm. Computer Methods in Biomechanics and Biomedical Engineering, 22(14), 1116-1125. doi:10.1080/10255842.2019.1634695
-Van Vliet, M. (2020). Seven quick tips for analysis scripts in neuroimaging. PLoS Computational Biology, 16(3). doi:10.1371/journal.pcbi.1007358
-van Vliet, M., & Salmelin, R. (2020). Post-hoc modification of linear models: Combining machine learning with domain information to make solid inferences from noisy data. Neuroimage, 204. doi:10.1016/j.neuroimage.2019.116221
-Wallroth, R., Höchenberger, R., & Ohla, K. (2018). Delta activity encodes taste information in the human brain. Neuroimage, 181, 471-479. doi:10.1016/j.neuroimage.2018.07.034
-Wallroth, R., & Ohla, K. (2018). As soon as you taste it: Evidence for sequential and parallel processing of gustatory information. eNeuro, 5(5). doi:10.1523/ENEURO.0269-18.2018
-Zhigalov, A., Heinilä, E., Parviainen, T., Parkkonen, L., & Hyvärinen, A. (2019). Decoding attentional states for neurofeedback: Mindfulness vs. wandering thoughts. Neuroimage, 185, 565-574. doi:10.1016/j.neuroimage.2018.10.014
+﻿doi:10.5604/01.3001.0012.0938
+doi:10.1016/j.aap.2021.106058
+doi:10.1049/itr2.12041
+doi:10.1166/sl.2012.2299
+doi:10.1024/1662-9647/a000014
+doi:10.19562/j.chinasae.qcgc.2018.05.003
+doi:10.1049/el.2020.2697
+doi:10.24846/v19i4y201010
+doi:10.17576/jsm-2020-4909-07
+doi:10.3969/j.issn.0258-8021.2019.06.015
+doi:10.5013/IJSSST.a.17.34.10
+doi:10.35940/ijitee.I1040.0789S219
+doi:10.1515/cdbme-2020-3091
+doi:10.11936/bjutxb2016030034
+doi:10.3969/j.issn.1001-4632.2016.03.15
+doi:10.1016/j.aap.2021.106093
+doi:10.3837/tiis.2019.09.011
+doi:10.1109/SMC42975.2020.9282918
+doi:10.3390/s21041255
+doi:10.1166/asl.2017.9747
+doi:10.5829/idosi.wasj.2013.22.08.73107
+doi:10.5829/idosi.mejsr.2013.14.5.73106
+doi:10.1109/JSEN.2020.3038440
+doi:10.5573/IEIESPC.2018.7.5.361
+doi:10.2478/amcs-2018-0057
+doi:10.35940/ijitee.J9025.0881019
+doi:10.1027//0269-8803.15.3.183
+doi:10.7868/S0044467714040108
+doi:10.3390/ijerph18073741
+doi:10.14704/nq.2018.16.6.1539
+doi:10.1016/j.aap.2020.105901
+doi:10.5829/idosi.wasj.2013.27.02.1542
+doi:10.19721/j.cnki.1001-7372.2020.06.017
+doi:10.30534/ijatcse/2020/200922020
+doi:10.1371/journal.pone.0245251
+doi:10.1541/ieejeiss.136.383
+doi:10.7232/iems.2019.18.4.692
+doi:10.14716/ijtech.v8i6.716
+doi:10.7232/iems.2019.18.4.748
+doi:10.4103/jmss.JMSS_54_18
+doi:10.13005/bbra/1824
+doi:10.3772/j.issn.1002-0470.2020.07.006
+doi:10.3389/fnbot.2021.618408
+doi:10.5604/01.3001.0013.6189
+doi:10.14257/ijsia.2015.9.6.13
+doi:10.3772/j.issn.1006-6748.2014.02.006
+doi:10.1016/j.bspc.2021.102591
+doi:10.17654/EC03010053
+doi:10.1007/978-3-319-40581-0_16
+doi:10.17485/ijst/2016/v9i3/86381
+doi:10.1109/JSEN.2021.3058658
+doi:10.3969/j.issn.1005-3026.2014.02.006
+doi:10.1109/TIM.2020.3047502
+doi:10.11918/j.issn.0367-6234.2016.09.007
+doi:10.3963/j.issn.2095-3844.2015.04.007
+doi:10.3969/j.issn.1000-565X.2016.12.009
+doi:10.3969/j.issn.0258-8021.2014.04.013
+doi:10.19650/j.cnki.cjsi.J1803822
+doi:10.1541/ieejeiss.140.332
+doi:10.3390/s21072369
+doi:10.26802/jaots.2018.08742
+doi:10.3969/j.issn.0258-2724.2010.03.024
+doi:10.3969/j.issn.0258-2724.2013.01.028
+doi:10.1049/iet-its.2017.0239
+doi:10.5614/j.eng.technol.sci.2019.51.2.9
